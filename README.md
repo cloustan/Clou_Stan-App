@@ -1,5 +1,7 @@
 # Clou_Stan App
 
+##Status: In Development.
+
 ## Vision
 
 **Clou_Stan App** is a next-generation Minecraft launcher built from the ground up with [Tauri](https://tauri.app/). Our goal is to provide a sleek, modern, and highly performant user experience by leveraging web technologies for the frontend and Rust for the backend.
