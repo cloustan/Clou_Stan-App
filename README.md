@@ -59,7 +59,7 @@ Clou_Stan App relies on integration with several third-party services. Developer
 
 ## Disclaimer
 
-- **Clou_Stan App** is an independent project and **not affiliated** with Prism Launcher or any other launcher.
+- **Clou_Stan App** is an independent project and **not affiliated** with any other launcher.
 - All trademarks and service marks are property of their respective owners.
 - This project is offered as-is, with no warranty or guarantee of stability or support.
 
