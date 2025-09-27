@@ -1,6 +1,6 @@
 # Clou_Stan App
 
-##Status: In Development.
+## Status: In Development.
 
 ## Vision
 
