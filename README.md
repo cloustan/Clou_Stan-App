@@ -1,5 +1,25 @@
 # Clou_Stan App
 
+
+## Important ⚠️
+<@&1421453148987330710> <@&1311670831239270451> 
+
+**Update 0.2**    
+
+1. **Clou_Stan_Land** (Completed ✅)
+2. **Clou_Stan Auth API**  (Completed ✅)
+3. **Clou_Stan App** (Awaiting❌)
+4. **Misty App** (Awaiting❌)
+5. **Clou_AI & Related Services** (Partial Operation ⚠️)
+6. **Dora Pilot** (Awaiting❌)
+7. **Installation and Setup of Dora UI (Insiders 0.21)** (Completed ✅)
+8   **Setup of Lumin Robotics Devices (Insiders 0.2.3)** (Completed ✅)
+
+*This post may update without notice.  
+Last Updated: Oct 6*
+
+
+
 ## Status: In Development.
 
 ## Vision
