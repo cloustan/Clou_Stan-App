@@ -1,25 +1,7 @@
 # Clou_Stan App
+<img width="1476" height="738" alt="Clou_Stan App Github Image" src="https://github.com/user-attachments/assets/611f66f2-2ca2-440b-85a0-42ea6f91e76f" />
 
-
-## Important ⚠️
-
-**Update 0.2**    
-
-1. **Clou_Stan_Land** (Completed ✅)
-2. **Clou_Stan Auth API**  (Completed ✅)
-3. **Clou_Stan App** (Awaiting❌)
-4. **Misty App** (Awaiting❌)
-5. **Clou_AI & Related Services** (Partial Operation ⚠️)
-6. **Dora Pilot** (Awaiting❌)
-7. **Installation and Setup of Dora UI (Insiders 0.21)** (Completed ✅)
-8   **Setup of Lumin Robotics Devices (Insiders 0.2.3)** (Completed ✅)
-
-*This post may update without notice.  
-Last Updated: Oct 6*
-
-
-
-## Status: In Development.
+## Status: Development Suspended.
 
 ## Vision
 
